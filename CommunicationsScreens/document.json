@@ -1845,6 +1845,26 @@
       "remoteSwatchID": "64B6616C-88E1-496F-BC9E-8357A5AA736D",
       "sourceLibraryName": "Migrated Global Colors",
       "symbolPrivate": false
+    },
+    {
+      "_class": "MSImmutableForeignSwatch",
+      "do_objectID": "3F39A3DC-4B83-40BD-935E-32F40B60DC7E",
+      "libraryID": "3FDCAA98-154D-4045-B2AD-3054CBE3D286",
+      "localSwatch": {
+        "_class": "swatch",
+        "do_objectID": "AA0340BF-A26F-4316-8821-F489FC65A593",
+        "name": "7. #ED4335",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.2068780393016582,
+          "green": 0.2646525793623623,
+          "red": 0.931281887755102
+        }
+      },
+      "remoteSwatchID": "9DC4C77B-AD33-473B-868D-B887F48DDCB8",
+      "sourceLibraryName": "Migrated Global Colors",
+      "symbolPrivate": false
     }
   ],
   "foreignSymbols": [
