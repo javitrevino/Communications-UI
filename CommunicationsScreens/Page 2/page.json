@@ -1,27 +1,11 @@
 {
-  "_class": "artboard",
-  "backgroundColor": {
-    "_class": "color",
-    "alpha": 1,
-    "blue": 1,
-    "green": 1,
-    "red": 1
-  },
+  "_class": "page",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "C49C805A-CF53-4A4B-A1C0-711B9979BEAB",
+  "do_objectID": "DD605262-A7D0-4680-9AB1-D7A2722E86F2",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
-      {
-        "_class": "exportFormat",
-        "absoluteSize": 0,
-        "fileFormat": "png",
-        "name": "",
-        "namingScheme": 0,
-        "scale": 1,
-        "visibleScaleType": 0
-      }
     ],
     "includedLayerIds": [
     ],
@@ -31,59 +15,41 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 1200,
-    "width": 1200,
-    "x": 2083,
-    "y": 869
+    "height": 0,
+    "width": 0,
+    "x": 0,
+    "y": 0
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
-  "hasBackgroundColor": false,
   "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
-    "base": 0,
+    "base": -603,
     "guides": [
     ]
   },
-  "includeBackgroundColorInExport": true,
   "includeInCloudUpload": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
-  "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "group",
-      "id": "B2FB9078-513D-4417-924E-49D6462D7F9A"
-    },
-    {
-      "class": "rectangle",
-      "id": "F1B1670D-362F-40A0-A9CD-82A01975CECA"
-    },
-    {
-      "class": "group",
-      "id": "B8A5F20B-9C99-4E09-87C7-63E54901C99A"
-    },
-    {
-      "class": "rectangle",
-      "id": "484B413C-B15F-451D-9139-ABEE83ED28BA"
+      "class": "artboard",
+      "id": "BD9CE61B-EEC7-4A28-AF35-886149992D25"
     }
   ],
-  "name": "Create New Task 01",
-  "nameIsFixed": true,
-  "presetDictionary": {
-  },
-  "resizesContent": false,
+  "name": "Page 2",
+  "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "shouldBreakMaskChain": true,
+  "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
     "blur": {
@@ -110,7 +76,7 @@
       "brightness": 0,
       "contrast": 1,
       "hue": 0,
-      "isEnabled": true,
+      "isEnabled": false,
       "saturation": 1
     },
     "contextSettings": {
@@ -118,7 +84,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "C14926E7-7EA6-4FAC-90A3-5F07182DA1D7",
+    "do_objectID": "913DE315-F6CB-4795-8315-C40D67ECB24B",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -130,15 +96,9 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "userInfo": {
-    "com.animaapp.stc-sketch-plugin": {
-      "kModelPropertiesKey": {
-      }
-    }
-  },
   "verticalRulerData": {
     "_class": "rulerData",
-    "base": 0,
+    "base": -612,
     "guides": [
     ]
   }

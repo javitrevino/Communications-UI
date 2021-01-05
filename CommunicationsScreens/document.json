@@ -32,7 +32,7 @@
       "do_objectID": "0AD10AFD-5C22-4739-81F3-F07850F9313C",
       "fontFamilyName": "Source Sans Pro",
       "fontFileName": "SourceSansPro-Semibold.ttf",
-      "options": 6,
+      "options": 0,
       "postscriptNames": [
         "SourceSansPro-Semibold"
       ]
@@ -52,7 +52,7 @@
       "do_objectID": "37514538-658E-4089-A479-362834B36740",
       "fontFamilyName": "Source Sans Pro",
       "fontFileName": "SourceSansPro-Regular.ttf",
-      "options": 6,
+      "options": 0,
       "postscriptNames": [
         "SourceSansPro-Regular"
       ]
@@ -92,7 +92,7 @@
       "do_objectID": "89A89655-2394-4652-91BF-31E962D7CD64",
       "fontFamilyName": "Source Sans Pro",
       "fontFileName": "SourceSansPro-Bold.ttf",
-      "options": 6,
+      "options": 0,
       "postscriptNames": [
         "SourceSansPro-Bold"
       ]
@@ -152,7 +152,7 @@
       "do_objectID": "EF793747-6A25-4515-BE90-27CF0561E0D2",
       "fontFamilyName": "Proxima Nova",
       "fontFileName": ".175.otf",
-      "options": 2,
+      "options": 0,
       "postscriptNames": [
         "ProximaNova-Regular"
       ]
@@ -120071,6 +120071,7 @@
   },
   "pages": [
     "Page 1",
+    "Page 2",
     "Symbols"
   ],
   "sharedSwatches": {

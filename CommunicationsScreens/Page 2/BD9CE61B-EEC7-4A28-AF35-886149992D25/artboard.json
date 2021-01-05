@@ -9,19 +9,10 @@
   },
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "C49C805A-CF53-4A4B-A1C0-711B9979BEAB",
+  "do_objectID": "BD9CE61B-EEC7-4A28-AF35-886149992D25",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
-      {
-        "_class": "exportFormat",
-        "absoluteSize": 0,
-        "fileFormat": "png",
-        "name": "",
-        "namingScheme": 0,
-        "scale": 1,
-        "visibleScaleType": 0
-      }
     ],
     "includedLayerIds": [
     ],
@@ -31,10 +22,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 1200,
-    "width": 1200,
-    "x": 2083,
-    "y": 869
+    "height": 812,
+    "width": 375,
+    "x": -188,
+    "y": -407
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -59,25 +50,18 @@
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "group",
-      "id": "B2FB9078-513D-4417-924E-49D6462D7F9A"
-    },
-    {
       "class": "rectangle",
-      "id": "F1B1670D-362F-40A0-A9CD-82A01975CECA"
-    },
-    {
-      "class": "group",
-      "id": "B8A5F20B-9C99-4E09-87C7-63E54901C99A"
-    },
-    {
-      "class": "rectangle",
-      "id": "484B413C-B15F-451D-9139-ABEE83ED28BA"
+      "id": "F00D1292-F3F4-43C2-BE95-7A87F769AAE5"
     }
   ],
-  "name": "Create New Task 01",
-  "nameIsFixed": true,
+  "name": "iPhone 11 Pro",
+  "nameIsFixed": false,
   "presetDictionary": {
+    "allowResizedMatching": 1,
+    "height": 812,
+    "name": "iPhone 11 Pro",
+    "offersLandscapeVariant": 1,
+    "width": 375
   },
   "resizesContent": false,
   "resizingConstraint": 63,
@@ -110,7 +94,7 @@
       "brightness": 0,
       "contrast": 1,
       "hue": 0,
-      "isEnabled": true,
+      "isEnabled": false,
       "saturation": 1
     },
     "contextSettings": {
@@ -118,7 +102,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "C14926E7-7EA6-4FAC-90A3-5F07182DA1D7",
+    "do_objectID": "54820A93-6959-4516-B11B-14656E3658D3",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -129,12 +113,6 @@
     ],
     "startMarkerType": 0,
     "windingRule": 1
-  },
-  "userInfo": {
-    "com.animaapp.stc-sketch-plugin": {
-      "kModelPropertiesKey": {
-      }
-    }
   },
   "verticalRulerData": {
     "_class": "rulerData",
