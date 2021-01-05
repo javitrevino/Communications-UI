@@ -54,6 +54,10 @@
     {
       "class": "group",
       "id": "42E00339-48CF-4189-AD1E-2C52A2FAAC0C"
+    },
+    {
+      "class": "rectangle",
+      "id": "3D387EAC-3992-4EAF-8EC0-6133D531E032"
     }
   ],
   "name": "Page 1",
