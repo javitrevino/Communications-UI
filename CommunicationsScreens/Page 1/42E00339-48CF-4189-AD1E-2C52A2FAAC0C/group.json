@@ -30,7 +30,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "rectangle",
@@ -51,10 +51,6 @@
     {
       "class": "symbolInstance",
       "id": "C63284AD-9CD4-45BE-BF79-A95A68EE6E7C"
-    },
-    {
-      "class": "group",
-      "id": "0C803D36-77D6-4D06-961C-24EE79478B1A"
     },
     {
       "class": "rectangle",
